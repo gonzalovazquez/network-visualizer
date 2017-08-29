@@ -39,7 +39,7 @@ const mapStateToProps = (state) => ({
 
 MainViewer.propTypes = {
   cluster: PropTypes.object,
-  fetchData: PropTypes.func,  
+  fetchData: PropTypes.func,
 };
 
 export default MainViewer = connect(mapStateToProps, {
