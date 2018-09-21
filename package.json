@@ -5,7 +5,7 @@
   "main": "index.html",
   "repository": {
     "type": "git",
-    "url": "https://github.com/cibc-api/kubernetes-insight"
+    "url": "https://github.com/gonzalovazquez/network-visualizer"
   },
   "author": {
     "name": "Gonzalo Vazquez",
@@ -13,9 +13,9 @@
   },
   "license": "UsMakesTwo Inc.",
   "bugs": {
-    "url": "https://github.com/cibc-api/kubernetes-insight/issues"
+    "url": "https://github.com/gonzalovazquez/network-visualizer/issues"
   },
-  "homepage": "https://github.com/cibc-api/kubernetes-insight#readme",
+  "homepage": "https://github.com/gonzalovazquez/network-visualizer#readme",
   "devDependencies": {
     "babel-core": "^6.13.2",
     "babel-eslint": "^6.1.2",
